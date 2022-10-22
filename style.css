@@ -1,0 +1,40 @@
+body{
+    background-color:skyblue;
+}
+.container{
+    background-color: white;
+    height: 400px;
+    width: 280px;
+    border-radius: 8px;
+
+    /* centering the data inside div */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* centering the div */
+    margin: auto;
+    margin-top: 150px;
+    width: 50%;
+    
+ 
+}
+
+label{
+    font-size: 20px;
+    color: brown;
+ 
+}
+.input-box{
+    height: 25px;
+    width: 250px;
+    border-radius: 3px;
+}
+.btn{
+    background-color: #DC5F00;
+    color:white;
+    height:30px ;
+    width:250px ;
+    border-radius: 5px;
+    border:none;
+}
